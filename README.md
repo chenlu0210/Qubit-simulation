@@ -1,2 +1,3 @@
-# Qubit-simulation
-Jupyter notebooks used for qubit simulations
+# Simulation
+
+Python scripts of the simulations involved in my PhD thesis.
